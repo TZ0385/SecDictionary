@@ -3,6 +3,7 @@
 888888
 Admin
 Audit
+Hagdaudit
 Lepusadmin
 adm
 adm 
@@ -36,7 +37,6 @@ operator
 root
 rule
 sangfor
-shell
 shell
 superman
 supervis
