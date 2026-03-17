@@ -812,6 +812,7 @@ names.nsf/People?OpenView
 node/1?_format=hal_json
 nwp-content/plugins/disqus-comment-system/disqus.php
 oa/oaNotify/self/count
+oauth//token/api/index.html
 oauth/authorize/actuator/swagger/index.html
 oauth/check_token/actuator/swagger/static/index.html
 oauth/client/token/api-docs
@@ -819,7 +820,6 @@ oauth/confirm_access/actuator/system/
 oauth/error/actuator/system/env
 oauth/get/token/api.html
 oauth/refresh/token/api/doc
-oauth//token/api/index.html
 oauth/token/actuator/system/mappings
 oauth/token/list/api/swagger
 oauth/user/token/api/swagger-resources
@@ -998,6 +998,7 @@ ueditor/jsp/controller.jsp?action=uploadfile
 ueditor/php/controller.php?action=uploadfile
 ueditor/third-party/webuploader/webuploader.js
 updateme/sinfor/ad/sys/sys_user.conf
+upload/uploadify/20251217/
 uploads/member/index.php?uid=001
 uploads/member/resetpassword.php?dopost=safequestion&safequestion=0.0&id=1
 user_guide_src/cilexer/build/
